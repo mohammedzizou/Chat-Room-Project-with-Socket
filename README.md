@@ -1,4 +1,4 @@
-# Chat Room with dart and flutter useing Socket
+# Chat Room with dart and flutter using Socket
 
 
 
