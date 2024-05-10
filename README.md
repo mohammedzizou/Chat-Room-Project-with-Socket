@@ -76,14 +76,18 @@ dart run
 </style> -->
 
 <div class="screenshot-row">
-  <img src="screenshot/1.jpg" alt="image1" width="200" class="screenshot" />
-  <img src="screenshot/2.jpg" alt="image2" width="200" class="screenshot" />
-  <img src="screenshot/3.jpg" alt="image3" width="200" class="screenshot" />
+  <img src="screenshot/1.jpg" alt="image1" width="300" class="screenshot" />
+  <img src="screenshot/2.jpg" alt="image2" width="300" class="screenshot" />
+ 
+</div>
+<div class="screenshot-row">
+ <img src="screenshot/3.jpg" alt="image3" width="300" class="screenshot" />
+ <img src="screenshot/4.jpg" alt="image4" width="300" class="screenshot" />
 </div>
 
 <div class="screenshot-row">
-  <img src="screenshot/4.jpg" alt="image4" width="200" class="screenshot" />
-  <img src="screenshot/5.jpg" alt="image5" width="200" class="screenshot" />
-  <img src="screenshot/6.jpg" alt="image6" width="200" class="screenshot" />
+ 
+  <img src="screenshot/5.jpg" alt="image5" width="300" class="screenshot" />
+  <img src="screenshot/6.jpg" alt="image6" width="300" class="screenshot" />
 </div>
 Empower your communication experience with our Dart and Flutter-powered chat room application today!
