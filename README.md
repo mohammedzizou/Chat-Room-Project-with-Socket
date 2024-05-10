@@ -63,7 +63,7 @@ dart pub get
 # Start the server
 dart run
 ```
-## 7 Screenshots
+## Screenshots
 <!-- <style>
   .screenshot-row {
     display: flex;
