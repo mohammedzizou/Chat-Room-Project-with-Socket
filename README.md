@@ -64,7 +64,7 @@ dart pub get
 dart run
 ```
 ## 7 Screenshots
-<style>
+<!-- <style>
   .screenshot-row {
     display: flex;
     justify-content: center;
@@ -73,7 +73,7 @@ dart run
   .screenshot {
     margin-right: 10px; /* Adjust the margin between images as needed */
   }
-</style>
+</style> -->
 
 <div class="screenshot-row">
   <img src="screenshot/1.jpg" alt="image1" width="200" class="screenshot" />
